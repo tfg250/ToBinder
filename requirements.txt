@@ -1,2 +1,13 @@
 plotly
 numpy
+matplotlib
+scipy
+time
+os
+random
+shelve
+sys
+sympy
+control.matlab
+pprint
+copy

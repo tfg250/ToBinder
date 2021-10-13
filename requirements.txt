@@ -1,12 +1,3 @@
 plotly
 numpy
-matplotlib
-time
-os
-random
-shelve
-sys
-sympy
-control.matlab
-pprint
-copy
+

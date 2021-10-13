@@ -1,7 +1,6 @@
 plotly
 numpy
 matplotlib
-scipy
 time
 os
 random
